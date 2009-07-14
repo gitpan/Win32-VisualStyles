@@ -4,7 +4,7 @@ use 5.006;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 our $XS_VERSION = $VERSION;
 $VERSION = eval $VERSION;
 
@@ -289,7 +289,7 @@ Contact the author for support.
 
 =head1 AUTHORS
 
-Robert May (C<robertemay@users.sourceforge.net>)
+Robert May (C<robertmay@cpan.org>)
 
 =head1 COPYRIGHT AND LICENSE
 
